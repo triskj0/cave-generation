@@ -1,5 +1,4 @@
 # cave-generation
-- Generating random cave levels for games (using cellular automata).
 
 ### generate_cave.py
 - The levels will generate differently depending on the values of *GRID_SIZE*, *INITIAL_CHANCE*, *NUMBER_OF_STEPS*, *BIRTH_LIMIT* and *DEATH_LIMIT*.
@@ -8,3 +7,6 @@
 
 ### display_cave.py
 - The single purpose of this file is just to display the generated outcome
+
+
+![screenshot](https://github.com/triskj0/cave-generation/blob/main/cave-screenshot.png)
